@@ -35,3 +35,16 @@ If all steps complete successfully, the integration is ready for use.
 1. Right-click the setup executable.
 2. Select Run as Administrator.
 3. Review console output for success or errors.
+
+## Developer Notes
+
+### Build Instructions
+
+- Target framework: .NET Framework 4.8.1.
+- Restore NuGet packages before building.
+- Build the solution in Release mode for deployment.
+
+### Additional Documentation
+
+For detailed technical documentation regarding the Sidexis system integration, please refer to the official vendor documentation [here](https://www.dentsplysirona.com/en/lp/slida-partners/member-area.html).
+
