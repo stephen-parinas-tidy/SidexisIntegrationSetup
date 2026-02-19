@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SidexisIntegrationSetup", "SidexisIntegrationSetup\SidexisIntegrationSetup.csproj", "{492879DB-26C2-4855-8F43-F669FD06A443}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SidexisIntegrationSetup", "SidexisIntegrationSetup.csproj", "{492879DB-26C2-4855-8F43-F669FD06A443}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
